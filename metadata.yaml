@@ -1,0 +1,38 @@
+_repo: Our-Journey-to-the-Hebrides_39026
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39026-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Pennell, Joseph
+    alias: Pennell, J. (Joseph)
+    birthdate: 1857
+    deathdate: 1926
+    gutenberg_agent_id: '33068'
+    url: http://www.gutenberg.org/2009/agents/33068
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Pennell
+  - agent_name: Pennell, Elizabeth Robins
+    alias: Pennell, E. R. (Elizabeth Robins)
+    birthdate: 1855
+    deathdate: 1936
+    gutenberg_agent_id: '25552'
+    url: http://www.gutenberg.org/2009/agents/25552
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Robins_Pennell
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2012-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39026'
+  lccn: '28009111'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scotland -- Description and travel'
+- !lcsh 'Hebrides (Scotland) -- Description and travel'
+- !lcc 'DA'
+title: Our Journey to the Hebrides
+url: http://www.gutenberg.org/ebooks/39026
